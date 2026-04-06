@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #1e1e2f;
+    color: white;
+    transition: 0.3s;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background: black;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+}
+
+.profile {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.card {
+    display: inline-block;
+    background: #2a2a40;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+#gallery img {
+    width: 200px;
+    margin: 10px;
+}
+
+/* DARK MODE */
+.dark-mode {
+    background: white;
+    color: black;
+}
