@@ -1,0 +1,17 @@
+student-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── profile.jpg
+│   ├── ai4a.png
+│   ├── design.png
+│   ├── ace.png
+│   ├── coursera.jpg
+│   ├── netacad.jpg
+│   ├── yuva.jpg
+│   └── gallery1.jpg
+│
+└── README.md
